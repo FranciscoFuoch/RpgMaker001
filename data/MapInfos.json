@@ -1,8 +1,16 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Mapa inicial","order":1,"parentId":0,"scrollX":869,"scrollY":503},
 {"id":2,"expanded":false,"name":"Castelo de Orion","order":3,"parentId":1,"scrollX":811,"scrollY":499},
 {"id":3,"expanded":false,"name":"Arredores do Castelo","order":2,"parentId":1,"scrollX":811,"scrollY":763},
 null,
 {"id":5,"expanded":false,"name":"Teste de Logica","order":4,"parentId":0,"scrollX":819,"scrollY":461}
+=======
+{"id":1,"expanded":true,"name":"Mapa inicial","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+{"id":2,"expanded":false,"name":"Castelo de Orion","order":3,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"Arredores do Castelo","order":2,"parentId":1,"scrollX":451,"scrollY":464.5},
+null,
+{"id":5,"expanded":false,"name":"TESTE DE LOGICA","order":4,"parentId":1,"scrollX":459,"scrollY":312.5}
+>>>>>>> 3813c91a020d62b075efc03f0edd9538212b8101
 ]
