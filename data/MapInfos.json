@@ -1,8 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Mapa inicial","order":1,"parentId":0,"scrollX":869,"scrollY":503},
-{"id":2,"expanded":false,"name":"Castelo de Orion","order":3,"parentId":1,"scrollX":811,"scrollY":499},
-{"id":3,"expanded":false,"name":"Arredores do Castelo","order":2,"parentId":1,"scrollX":811,"scrollY":943},
+{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":903.4285714285713},
 null,
-{"id":5,"expanded":false,"name":"Teste de Logica","order":4,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666}
+null,
+null,
+null,
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
+{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":1404,"scrollY":790.2857142857142}
 ]
