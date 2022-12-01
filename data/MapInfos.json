@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":1390,"scrollY":563},
+{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":1390.2222222222222,"scrollY":562.6666666666666},
 null,
 null,
 null,
 null,
-{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1333,"scrollY":1156},
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":816,"scrollY":624},
 {"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":832,"scrollY":640}
 ]
