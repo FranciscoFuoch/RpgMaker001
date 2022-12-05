@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":1390.2222222222222,"scrollY":562.6666666666666},
+{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":915.4285714285713,"scrollY":1366.2857142857142},
 null,
 null,
 null,
 null,
-{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":787.5555555555555,"scrollY":456},
-{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":728,"scrollY":409.77777777777777}
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":474.6666666666667,"scrollY":445.3333333333333},
+{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":474.6666666666667,"scrollY":448.8888888888889}
 ]
