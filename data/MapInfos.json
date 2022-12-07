@@ -1,10 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":1830.8571428571427,"scrollY":1018.2857142857142},
-{"id":2,"expanded":false,"name":"Vila Leste","order":4,"parentId":6,"scrollX":1102,"scrollY":1682},
-null,
-null,
-null,
-{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1092,"scrollY":1292},
-{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":650.4,"scrollY":366}
+{"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":2162.1818181818185,"scrollY":988.3636363636364},
+{"id":2,"expanded":true,"name":"Vila Leste","order":4,"parentId":6,"scrollX":1081.3333333333333,"scrollY":905.3333333333334},
+{"id":3,"expanded":true,"name":"Hotel-VilaLeste","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"LojaPoçoes-VilaLeste","order":6,"parentId":2,"scrollX":546,"scrollY":307.3333333333333},
+{"id":5,"expanded":true,"name":"LojaArmas-VilaLeste","order":7,"parentId":2,"scrollX":546,"scrollY":307.3333333333333},
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":785.3333333333334},
+{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Vulcão","order":8,"parentId":6,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":9,"expanded":false,"name":"MAP009","order":9,"parentId":0,"scrollX":832,"scrollY":640}
 ]
