@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Thales","characterIndex":0,"characterName":"Thales","classId":3,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"Thales","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thales","nickname":"Dean","note":"","profile":""},
-{"id":2,"battlerName":"Dan","characterIndex":0,"characterName":"Dan","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Dan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dan","nickname":"Ur","note":"","profile":""},
+{"id":2,"battlerName":"Dan","characterIndex":0,"characterName":"Dan","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Dan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dan","nickname":"Ur","note":"","profile":""},
 {"id":3,"battlerName":"Bia","characterIndex":0,"characterName":"Bia","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bia","nickname":"Uf","note":"","profile":""},
 {"id":4,"battlerName":"Audrey","characterIndex":0,"characterName":"Audrey","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Audrey","traits":[],"initialLevel":1,"maxLevel":99,"name":"Audrey","nickname":"Vecttus","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
