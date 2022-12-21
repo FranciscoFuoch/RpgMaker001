@@ -1,19 +1,19 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":3968,"scrollY":1552},
-{"id":2,"expanded":false,"name":"Vila Leste","order":4,"parentId":6,"scrollX":1068,"scrollY":610},
+{"id":2,"expanded":false,"name":"Vila Leste","order":4,"parentId":6,"scrollX":959.1111111111111,"scrollY":609.7777777777778},
 {"id":3,"expanded":true,"name":"Hotel-VilaLeste","order":5,"parentId":2,"scrollX":1084,"scrollY":610},
 {"id":4,"expanded":true,"name":"LojaPoçoes-VilaLeste","order":6,"parentId":2,"scrollX":1084,"scrollY":610},
 {"id":5,"expanded":true,"name":"LojaArmas-VilaLeste","order":7,"parentId":2,"scrollX":1084,"scrollY":610},
-{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1359,"scrollY":1168.5},
-{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":1084,"scrollY":610},
-{"id":8,"expanded":false,"name":"Vulcão","order":8,"parentId":6,"scrollX":1602,"scrollY":1053},
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1216.5,"scrollY":691.5},
+{"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Vulcão","order":8,"parentId":6,"scrollX":1152,"scrollY":1276},
 {"id":9,"expanded":false,"name":"IniciodeJogo","order":15,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":10,"expanded":false,"name":"VilaNorte3","order":10,"parentId":6,"scrollX":1626,"scrollY":915},
 {"id":11,"expanded":true,"name":"VilaNorte2","order":11,"parentId":6,"scrollX":1068,"scrollY":786},
-{"id":12,"expanded":true,"name":"VilaNorte1","order":12,"parentId":6,"scrollX":1068,"scrollY":1083.6},
+{"id":12,"expanded":true,"name":"VilaNorte1","order":12,"parentId":6,"scrollX":1216.5,"scrollY":748.5},
 {"id":13,"expanded":false,"name":"Vulcão","order":9,"parentId":8,"scrollX":1626,"scrollY":915},
 {"id":14,"expanded":false,"name":"CasteloemRuinas","order":13,"parentId":6,"scrollX":1084,"scrollY":610},
 {"id":15,"expanded":false,"name":"Castelão","order":14,"parentId":6,"scrollX":1084,"scrollY":610},
-{"id":16,"expanded":false,"name":"TestedeLogicas","order":16,"parentId":0,"scrollX":650.4,"scrollY":366}
+{"id":16,"expanded":false,"name":"TestedeLogicas","order":16,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
 ]
