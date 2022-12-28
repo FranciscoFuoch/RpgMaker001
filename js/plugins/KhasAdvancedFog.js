@@ -215,33 +215,6 @@ black: {
         color: {"r": 0, "g": 0, "b": 0}
 },
 
-DarkGray: {
-        speed: {x: 0.3, y: 0.17}, 
-        size: 2.0,
-        ambientDensity: 100,
-        playerDensity: 5,
-        playerRange: 2,
-        color: {"r": 79, "g": 79, "b": 79}
-},
-
-Areia: {
-        speed: {x: 0.2, y: 0.07}, 
-        size: 1.0,
-        ambientDensity: 100,
-        playerDensity: 5,
-        playerRange: 2,
-        color: {"r": 210, "g": 180, "b": 140}
-},
-
-Neve: {
-        speed: {x: 0.2, y: 0.07}, 
-        size: 1.5,
-        ambientDensity: 100,
-        playerDensity: 5,
-        playerRange: 2,
-        color: {"r": 255, "g": 250, "b": 250}
-},
-
 
 
 
