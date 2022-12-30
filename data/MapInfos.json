@@ -1,19 +1,19 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MapaMundo","order":1,"parentId":0,"scrollX":3968,"scrollY":1552},
-{"id":2,"expanded":false,"name":"Vila Leste","order":4,"parentId":6,"scrollX":959.1111111111111,"scrollY":609.7777777777778},
+{"id":2,"expanded":false,"name":"Vila Leste","order":4,"parentId":6,"scrollX":968,"scrollY":849.3333333333334},
 {"id":3,"expanded":true,"name":"Hotel-VilaLeste","order":5,"parentId":2,"scrollX":1084,"scrollY":610},
 {"id":4,"expanded":true,"name":"LojaPoçoes-VilaLeste","order":6,"parentId":2,"scrollX":1084,"scrollY":610},
 {"id":5,"expanded":true,"name":"LojaArmas-VilaLeste","order":7,"parentId":2,"scrollX":1084,"scrollY":610},
-{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1448,"scrollY":1296},
+{"id":6,"expanded":true,"name":"Ilha das Alianças","order":2,"parentId":0,"scrollX":1426.6666666666667,"scrollY":1142.6666666666667},
 {"id":7,"expanded":false,"name":"Cabana Thales","order":3,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"Vulcão","order":8,"parentId":6,"scrollX":1165.0909090909092,"scrollY":840},
+{"id":8,"expanded":false,"name":"Vulcão","order":8,"parentId":6,"scrollX":712,"scrollY":1572},
 {"id":9,"expanded":false,"name":"IniciodeJogo","order":15,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":10,"expanded":false,"name":"VilaNorte3","order":10,"parentId":6,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":11,"expanded":true,"name":"VilaNorte2","order":11,"parentId":6,"scrollX":1165.0909090909092,"scrollY":774.5454545454546},
-{"id":12,"expanded":true,"name":"VilaNorte1","order":12,"parentId":6,"scrollX":1165.0909090909092,"scrollY":748.3636363636364},
-{"id":13,"expanded":false,"name":"Vulcão","order":9,"parentId":8,"scrollX":1378.909090909091,"scrollY":696},
+{"id":10,"expanded":false,"name":"VilaNorte3","order":10,"parentId":6,"scrollX":728,"scrollY":508},
+{"id":11,"expanded":true,"name":"VilaNorte2","order":11,"parentId":6,"scrollX":793.3333333333334,"scrollY":561.3333333333334},
+{"id":12,"expanded":true,"name":"VilaNorte1","order":12,"parentId":6,"scrollX":1068,"scrollY":762},
+{"id":13,"expanded":false,"name":"Vulcão","order":9,"parentId":8,"scrollX":1165.3333333333333,"scrollY":574.6666666666666},
 {"id":14,"expanded":false,"name":"CasteloemRuinas","order":13,"parentId":6,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
 {"id":15,"expanded":false,"name":"Castelão","order":14,"parentId":6,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
-{"id":16,"expanded":false,"name":"TestedeLogicas","order":16,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455}
+{"id":16,"expanded":false,"name":"TestedeLogicas","order":16,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667}
 ]
